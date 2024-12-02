@@ -22,6 +22,7 @@ Bonjour! Je suis Malha Akroun, une étudiante passionnée en formation à la pla
 ## 🔥 Streak Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=malha-akroun&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malha-akroun&layout=compact&theme=radical)
 
 ---
 
