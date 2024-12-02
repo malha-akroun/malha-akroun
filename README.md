@@ -7,28 +7,34 @@ Bonjour! Je suis Malha Akroun, une étudiante passionnée en formation à la pla
 
 - 🌱 J'apprends actuellement : HTML, CSS, PYTHON, Visual Studio Code, canva, trello, 
 - 📫 Comment me contacter : malha.akroun@laplateforme.io
-- ⚡ Fun fact : [Un fait amusant ou intéressant sur toi]
-
-## Compétences
-
-Voici quelques-unes des compétences techniques que je maîtrise ou que j'apprends actuellement :
 
 
 
-## Éducation
-
-- **laplateforme** - en formation
-  - **Cours suivis** :
 
 
+## 📊 GitHub Stats
 
-## Contact
+![Marck's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarckDawn&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckDawn&layout=compact&theme=radical)
 
-N'hésitez pas à me contacter pour toute question ou collaboration!
+---
 
-- 📫 Email : malha.akroun@laplateforme.io
-- LinkedIn : 
-- Portfolio : 
+## 🔥 Streak Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarckDawn&theme=radical&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MarckDawn&theme=radical&margin-w=15)
+
+---
+
+## 🧮 Visitors Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MarckDawn&color=blueviolet&style=flat-square)
+
 
 ---
 
@@ -37,12 +43,4 @@ Merci de visiter ma page GitHub! ✨
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
