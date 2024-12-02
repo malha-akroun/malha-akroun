@@ -15,7 +15,7 @@ Bonjour! Je suis Malha Akroun, une étudiante passionnée en formation à la pla
 ## 📊 GitHub Stats
 
 !https://github-readme-stats.vercel.app/api?username=malha-akroun&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckDawn&layout=compact&theme=radical)
+
 
 ---
 
